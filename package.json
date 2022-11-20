@@ -1,0 +1,36 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "The 3rd weekly exercise for the LUT University course Advanced Web Applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikodemiusTKT/lut-www-2022-week-3.git"
+  },
+  "keywords": [
+    "lut",
+    "university",
+    "assignment",
+    "web",
+    "course",
+    "work",
+    "exercise",
+    "web",
+    "application"
+  ],
+  "author": "Teemu Tanninen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikodemiusTKT/lut-www-2022-week-3/issues"
+  },
+  "homepage": "https://github.com/NikodemiusTKT/lut-www-2022-week-3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
